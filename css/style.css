@@ -47,4 +47,20 @@ header {
     padding: 0.5em;
     text-decoration: none; }
 
+header {
+  background-color: slateblue; }
+  header h1 {
+    color: #bdcd5a; }
+  header p {
+    color: #332781; }
+
+.main-nav a {
+  color: #c2bceb; }
+
+.btn {
+  color: slateblue;
+  background-color: #bdcd5a; }
+  .btn:hover {
+    background-color: #cdd981; }
+
 /*# sourceMappingURL=style.css.map */
